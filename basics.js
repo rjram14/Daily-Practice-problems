@@ -61,3 +61,12 @@ let data = 100;
   console.log(data);
 }
 console.log(data);
+
+/**
+ *
+ */
+
+for (let i = 0; i < 6; i++) {
+  //   console.log(i);
+}
+console.log(i); //ReferenceError: i is not defined
