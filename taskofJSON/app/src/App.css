@@ -1,0 +1,19 @@
+.App {
+  justify-content: center;
+}
+.tabbar {
+  margin: 2% 30%;
+  display: flex;
+  justify-content: space-evenly;
+  border: 1px solid;
+  padding: 5px;
+  text-align: center;
+  background: cadetblue;
+}
+.users {
+  margin: 2% 30%;
+  padding: 0 15%;
+}
+.key {
+  border: 1px solid;
+}
